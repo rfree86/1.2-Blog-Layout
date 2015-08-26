@@ -1,0 +1,95 @@
+.allcontent{
+  min-width:700px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  font-family: 'PT Serif', serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+header{
+  background: url(images/liberty_bridge.jpeg); no-repeat center center;
+  background-size: cover;
+  position: relative;
+  height: 400px;
+  width: 100%;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+
+}
+.block{
+display: inline-block;
+position: absolute;
+margin-top: 20px;
+}
+.blog-post{
+display: inline-block;
+vertical-align: top;
+width: 60%;
+padding:0 5px 0 5px;
+}
+.sidebar{
+  display: inline-block;
+  vertical-align: top;
+  width: 22%;
+}
+.theironyard{
+position: absolute;
+margin-top: -50px;
+margin-left: 50px;
+padding: 0;
+border-radius: 100%;
+border: 3px solid white;
+}
+.button_pic{
+  height: 100%;
+  width: auto;
+  border-radius: 75%;
+}
+.post_it{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  display: inline-block;
+  height: 100px;
+  width: 225px;
+  background-color: white;
+  border: 1px solid;
+}
+
+.never{
+box-sizing: border-box;
+text-align: center;
+margin: 0;
+
+}
+.tumbler{
+display: inline-block;
+margin: 0;
+padding: 0;
+}
+.tiy_tumbler{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-left: 5px;
+}
+.tiy_greenville{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 2px;
+  margin-bottom: 0;
+  width: 55.2%;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.tiy_follow{
+  display: inline-block;
+  vertical-align: top;
+  width: 5%;
+  padding-top: 8px
+}
